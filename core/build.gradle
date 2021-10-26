@@ -13,7 +13,7 @@ android {
         targetSdkVersion 30
         versionCode 1
         versionName "1.0"
-        buildConfigField "String", "SERVER_URL", "\"https://gorest.co.in/public/v1/posts/\""
+        buildConfigField "String", "SERVER_URL", "\"https://gorest.co.in/public/v1/\""
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         consumerProguardFiles "consumer-rules.pro"
     }
